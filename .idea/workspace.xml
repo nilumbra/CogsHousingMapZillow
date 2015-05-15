@@ -1,0 +1,1475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0ce233a-3acf-443e-9f46-cb81f658a396" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/semver/semver.browser.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/semver/semver.min.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/qs/.gitmodules" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/qs/.gitmodules" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/debug/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/debug/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/accepts/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/accepts/node_modules/mime-types/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/accepts/node_modules/negotiator/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/buffer-crc32/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/cookie/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/cookie-signature/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/debug/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/debug/node_modules/ms/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/depd/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/escape-html/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/finalhandler/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/fresh/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/media-typer/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/merge-descriptors/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/methods/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/parseurl/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/path-to-regexp/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/proxy-addr/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/qs/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/range-parser/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/send/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/send/node_modules/finished/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/send/node_modules/finished/node_modules/ee-first/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/send/node_modules/ms/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/serve-static/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/serve-static/node_modules/send/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/finished/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/finished/node_modules/ee-first/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/ms/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/type-is/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/type-is/node_modules/mime-types/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/vary/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/accepts/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/accepts/node_modules/mime-types/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/accepts/node_modules/negotiator/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/buffer-crc32/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/cookie/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/cookie-signature/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/debug/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/debug/node_modules/ms/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/depd/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/escape-html/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/finalhandler/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/fresh/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/media-typer/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/merge-descriptors/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/methods/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/parseurl/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/path-to-regexp/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/proxy-addr/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/qs/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/range-parser/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/send/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/send/node_modules/finished/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/send/node_modules/finished/node_modules/ee-first/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/send/node_modules/ms/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/serve-static/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/serve-static/node_modules/send/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/finished/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/finished/node_modules/ee-first/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/ms/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/type-is/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/type-is/node_modules/mime-types/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/vary/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/node_modules/minimatch/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/node_modules/minimatch/node_modules/lru-cache/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/node_modules/source-map/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/semver/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/accepts/node_modules/mime-types/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/buffer-crc32/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/type-is/node_modules/mime-types/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/utils-merge/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/accepts/node_modules/mime-types/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/buffer-crc32/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/type-is/node_modules/mime-types/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/utils-merge/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/optimist/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/node_modules/source-map/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/test/00-setup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/node_modules/source-map/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/node_modules/minimatch/node_modules/lru-cache/CONTRIBUTORS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/Cakefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/Cakefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/finalhandler/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/media-typer/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/parseurl/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/send/node_modules/finished/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/finished/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/type-is/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/finalhandler/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/media-typer/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/parseurl/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/send/node_modules/finished/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/finished/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/type-is/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/accepts/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/cookie-signature/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/debug/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/depd/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/fresh/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/methods/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/path-to-regexp/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/proxy-addr/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/range-parser/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/send/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/serve-static/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/serve-static/node_modules/send/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/vary/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/accepts/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/cookie-signature/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/debug/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/depd/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/fresh/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/methods/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/path-to-regexp/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/proxy-addr/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/range-parser/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/send/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/serve-static/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/serve-static/node_modules/send/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/vary/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/accepts/node_modules/mime-types/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/accepts/node_modules/negotiator/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/buffer-crc32/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/cookie/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/depd/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/methods/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/parseurl/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/proxy-addr/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/send/node_modules/finished/node_modules/ee-first/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/send/node_modules/mime/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/serve-static/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/finished/node_modules/ee-first/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/mime/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/type-is/node_modules/mime-types/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/utils-merge/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/vary/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/accepts/node_modules/mime-types/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/accepts/node_modules/negotiator/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/buffer-crc32/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/cookie/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/depd/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/methods/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/parseurl/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/proxy-addr/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/send/node_modules/finished/node_modules/ee-first/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/send/node_modules/mime/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/serve-static/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/finished/node_modules/ee-first/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/mime/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/type-is/node_modules/mime-types/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/utils-merge/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/vary/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/async/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/node_modules/inherits/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/node_modules/minimatch/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/node_modules/minimatch/node_modules/lru-cache/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/node_modules/minimatch/node_modules/sigmund/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/optimist/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/optimist/node_modules/wordwrap/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/node_modules/source-map/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/node_modules/source-map/node_modules/amdefine/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/semver/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/node_modules/source-map/Makefile.dryice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/accepts/node_modules/mime-types/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/cookie-signature/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/debug/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/escape-html/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/fresh/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/range-parser/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/type-is/node_modules/mime-types/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/accepts/node_modules/mime-types/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/cookie-signature/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/debug/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/escape-html/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/fresh/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/range-parser/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/type-is/node_modules/mime-types/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/semver/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/README.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/optimist/node_modules/wordwrap/README.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/accepts/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/accepts/node_modules/mime-types/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/buffer-crc32/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/cookie/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/debug/node_modules/ms/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/finalhandler/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/media-typer/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/merge-descriptors/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/parseurl/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/proxy-addr/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/send/node_modules/finished/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/send/node_modules/finished/node_modules/ee-first/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/send/node_modules/mime/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/send/node_modules/ms/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/finished/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/finished/node_modules/ee-first/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/mime/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/ms/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/type-is/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/type-is/node_modules/mime-types/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/utils-merge/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/vary/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/accepts/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/accepts/node_modules/mime-types/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/buffer-crc32/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/cookie/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/debug/node_modules/ms/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/finalhandler/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/media-typer/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/merge-descriptors/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/parseurl/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/proxy-addr/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/send/node_modules/finished/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/send/node_modules/finished/node_modules/ee-first/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/send/node_modules/mime/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/send/node_modules/ms/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/finished/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/finished/node_modules/ee-first/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/mime/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/ms/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/type-is/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/type-is/node_modules/mime-types/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/utils-merge/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/vary/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/async/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/node_modules/inherits/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/node_modules/minimatch/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/node_modules/minimatch/node_modules/lru-cache/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/node_modules/minimatch/node_modules/sigmund/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/node_modules/source-map/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/node_modules/source-map/node_modules/amdefine/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/semver/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/cookie-signature/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/debug/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/depd/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/escape-html/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/fresh/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/methods/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/path-to-regexp/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/qs/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/range-parser/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/send/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/serve-static/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/serve-static/node_modules/send/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/cookie-signature/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/debug/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/depd/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/escape-html/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/fresh/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/methods/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/path-to-regexp/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/qs/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/range-parser/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/send/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/serve-static/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/serve-static/node_modules/send/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/accepts/node_modules/mime-types/SOURCES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/type-is/node_modules/mime-types/SOURCES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/accepts/node_modules/mime-types/SOURCES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/type-is/node_modules/mime-types/SOURCES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/optimist/test/_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/semver/test/amd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/node_modules/source-map/node_modules/amdefine/amdefine.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/lib/application.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/lib/application.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/optimist/test/_/argv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/node_modules/source-map/lib/source-map/array-set.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/test/compress/arrays.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/node_modules/source-map/build/assert-shim.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/dist/amd/handlebars/compiler/ast.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/dist/cjs/handlebars/compiler/ast.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/lib/handlebars/compiler/ast.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/lib/ast.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/async/lib/async.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/node_modules/minimatch/node_modules/lru-cache/bar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/dist/amd/handlebars/base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/dist/amd/handlebars/compiler/base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/dist/cjs/handlebars/base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/dist/cjs/handlebars/compiler/base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/lib/handlebars/base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/lib/handlebars/compiler/base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/node_modules/source-map/lib/source-map/base64-vlq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/node_modules/source-map/lib/source-map/base64.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/test/bash-comparison.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/test/bash-results.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/node_modules/minimatch/node_modules/lru-cache/test/basic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/node_modules/minimatch/node_modules/sigmund/test/basic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/node_modules/minimatch/test/basic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/node_modules/minimatch/node_modules/sigmund/bench.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/optimist/test/_/bin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/node_modules/source-map/lib/source-map/binary-search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/test/compress/blocks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/optimist/example/bool.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/optimist/example/boolean_double.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/optimist/example/boolean_single.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/node_modules/minimatch/test/brace-expand.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/optimist/node_modules/wordwrap/test/break.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/debug/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/debug/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/node_modules/minimatch/test/caching.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/optimist/node_modules/wordwrap/example/center.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/accepts/node_modules/negotiator/lib/charset.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/accepts/node_modules/negotiator/lib/charset.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/dist/amd/handlebars/compiler/compiler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/dist/cjs/handlebars/compiler/compiler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/lib/handlebars/compiler/compiler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/accepts/node_modules/mime-types/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/debug/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/escape-html/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/merge-descriptors/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/path-to-regexp/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/type-is/node_modules/mime-types/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/accepts/node_modules/mime-types/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/debug/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/escape-html/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/merge-descriptors/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/path-to-regexp/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/type-is/node_modules/mime-types/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/async/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/lib/compress.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/test/compress/conditionals.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/buffer-crc32/tests/crc.test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/buffer-crc32/tests/crc.test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/accepts/node_modules/mime-types/lib/custom.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/type-is/node_modules/mime-types/lib/custom.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/accepts/node_modules/mime-types/lib/custom.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/type-is/node_modules/mime-types/lib/custom.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/test/cwd-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/test/compress/dead-code.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/debug/debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/debug/debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/test/compress/debugger.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/optimist/example/default_hash.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/optimist/example/default_singles.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/node_modules/minimatch/test/defaults.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/optimist/example/divide.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/test/compress/drop-unused.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/shared/templates/echo.handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/views/echo.handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/public/echo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/accepts/node_modules/negotiator/lib/encoding.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/accepts/node_modules/negotiator/lib/encoding.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/dist/amd/handlebars/exception.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/dist/cjs/handlebars/exception.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/lib/handlebars/exception.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/lib/express-handlebars.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/lib/express.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/lib/express.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/node_modules/minimatch/test/extglob-ending-with-state-char.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/node_modules/minimatch/node_modules/lru-cache/foo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/semver/foot.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/node_modules/minimatch/node_modules/lru-cache/test/foreach.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/examples/g.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/glob.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/test/globstar-match.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/semver/test/gtr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/dist/handlebars.amd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/dist/handlebars.amd.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/dist/handlebars.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/dist/amd/handlebars.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/dist/cjs/handlebars.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/lib/handlebars.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/dist/handlebars.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/dist/handlebars.runtime.amd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/dist/handlebars.runtime.amd.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/dist/handlebars.runtime.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/dist/amd/handlebars.runtime.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/dist/cjs/handlebars.runtime.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/lib/handlebars.runtime.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/dist/handlebars.runtime.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/.bin/handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/bin/handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/hashtag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/semver/head.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/lib/helpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/views/home.handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/views/home.handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/optimist/node_modules/wordwrap/test/idleness.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/index.handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/lib/router/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/accepts/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/accepts/node_modules/mime-types/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/buffer-crc32/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/cookie/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/cookie-signature/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/debug/node_modules/ms/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/depd/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/escape-html/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/finalhandler/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/fresh/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/media-typer/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/merge-descriptors/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/methods/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/parseurl/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/path-to-regexp/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/proxy-addr/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/qs/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/range-parser/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/send/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/send/node_modules/finished/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/send/node_modules/finished/node_modules/ee-first/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/send/node_modules/ms/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/serve-static/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/serve-static/node_modules/send/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/finished/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/finished/node_modules/ee-first/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/ms/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/type-is/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/type-is/node_modules/mime-types/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/utils-merge/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/vary/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/lib/router/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/accepts/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/accepts/node_modules/mime-types/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/buffer-crc32/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/cookie/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/cookie-signature/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/debug/node_modules/ms/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/depd/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/escape-html/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/finalhandler/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/fresh/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/media-typer/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/merge-descriptors/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/methods/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/parseurl/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/path-to-regexp/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/proxy-addr/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/qs/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/range-parser/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/send/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/send/node_modules/finished/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/send/node_modules/finished/node_modules/ee-first/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/send/node_modules/ms/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/serve-static/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/serve-static/node_modules/send/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/finished/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/finished/node_modules/ee-first/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/ms/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/type-is/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/type-is/node_modules/mime-types/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/utils-merge/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/vary/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/optimist/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/optimist/node_modules/wordwrap/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/semver/test/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/node_modules/inherits/inherits.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/node_modules/inherits/inherits_browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/lib/middleware/init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/lib/middleware/init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/node_modules/source-map/node_modules/amdefine/intercept.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/src/ipaddr.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/src/ipaddr.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/lib/ipaddr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/lib/ipaddr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/ipaddr.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/ipaddr.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/test/ipaddr.test.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/test/ipaddr.test.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/test/compress/issue-105.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/test/compress/issue-12.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/test/compress/issue-143.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/test/compress/issue-22.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/test/compress/issue-44.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/test/compress/issue-59.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/dist/amd/handlebars/compiler/javascript-compiler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/dist/cjs/handlebars/compiler/javascript-compiler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/lib/handlebars/compiler/javascript-compiler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/test/compress/labels.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/accepts/node_modules/negotiator/lib/language.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/accepts/node_modules/negotiator/lib/language.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/lib/router/layer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/lib/router/layer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/optimist/example/line_count.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/optimist/example/line_count_options.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/optimist/example/line_count_wrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/test/compress/loops.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/node_modules/minimatch/node_modules/lru-cache/lib/lru-cache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/semver/test/ltr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/views/layouts/main.handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/views/layouts/main.handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/node_modules/source-map/lib/source-map/mapping-list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/test/mark.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/lib/router/match.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/lib/router/match.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/optimist/node_modules/wordwrap/example/meat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/accepts/node_modules/negotiator/lib/mediaType.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/accepts/node_modules/negotiator/lib/mediaType.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/node_modules/minimatch/node_modules/lru-cache/test/memory-leak.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/methods/test/methods.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/methods/test/methods.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/send/node_modules/mime/mime.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/mime/mime.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/send/node_modules/mime/mime.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/mime/mime.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/accepts/node_modules/mime-types/lib/mime.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/type-is/node_modules/mime-types/lib/mime.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/accepts/node_modules/mime-types/lib/mime.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/type-is/node_modules/mime-types/lib/mime.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/send/node_modules/mime/types/mime.types" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/mime/types/mime.types" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/send/node_modules/mime/types/mime.types" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/mime/types/mime.types" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/node_modules/source-map/build/mini-require.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/node_modules/minimatch/minimatch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/lib/mozilla-ast.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/views/partials/page/nav.handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/accepts/node_modules/negotiator/lib/negotiator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/accepts/node_modules/negotiator/lib/negotiator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/test/new-glob-optional-options.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/semver/test/no-module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/test/nocase-nomagic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/debug/node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/debug/node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/tools/node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/accepts/node_modules/mime-types/lib/node.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/type-is/node_modules/mime-types/lib/node.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/accepts/node_modules/mime-types/lib/node.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/type-is/node_modules/mime-types/lib/node.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/send/node_modules/mime/types/node.types" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/mime/types/node.types" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/send/node_modules/mime/types/node.types" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/mime/types/node.types" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/optimist/example/nonopt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/lib/output.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/accepts/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/accepts/node_modules/mime-types/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/accepts/node_modules/negotiator/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/buffer-crc32/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/cookie/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/cookie-signature/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/debug/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/debug/node_modules/ms/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/depd/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/escape-html/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/finalhandler/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/fresh/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/media-typer/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/merge-descriptors/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/methods/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/parseurl/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/path-to-regexp/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/proxy-addr/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/qs/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/range-parser/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/send/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/send/node_modules/finished/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/send/node_modules/finished/node_modules/ee-first/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/send/node_modules/mime/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/send/node_modules/ms/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/serve-static/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/serve-static/node_modules/send/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/finished/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/finished/node_modules/ee-first/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/mime/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/ms/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/type-is/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/type-is/node_modules/mime-types/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/utils-merge/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/vary/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/accepts/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/accepts/node_modules/mime-types/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/accepts/node_modules/negotiator/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/buffer-crc32/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/cookie/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/cookie-signature/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/debug/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/debug/node_modules/ms/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/depd/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/escape-html/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/finalhandler/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/fresh/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/media-typer/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/merge-descriptors/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/methods/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/parseurl/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/path-to-regexp/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/proxy-addr/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/qs/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/range-parser/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/send/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/send/node_modules/finished/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/send/node_modules/finished/node_modules/ee-first/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/send/node_modules/mime/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/send/node_modules/ms/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/serve-static/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/serve-static/node_modules/send/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/finished/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/finished/node_modules/ee-first/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/mime/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/ms/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/type-is/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/type-is/node_modules/mime-types/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/utils-merge/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/vary/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/async/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/node_modules/inherits/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/node_modules/minimatch/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/node_modules/minimatch/node_modules/lru-cache/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/node_modules/minimatch/node_modules/sigmund/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/optimist/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/optimist/node_modules/wordwrap/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/node_modules/source-map/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/node_modules/source-map/node_modules/amdefine/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/semver/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/optimist/test/parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/lib/parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/dist/amd/handlebars/compiler/parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/dist/cjs/handlebars/compiler/parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/lib/handlebars/compiler/parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/test/pause-resume.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/node_modules/source-map/build/prefix-source-map.jsm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/node_modules/source-map/build/prefix-utils.jsm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/dist/amd/handlebars/compiler/printer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/dist/cjs/handlebars/compiler/printer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/lib/handlebars/compiler/printer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/test/compress/properties.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/lib/middleware/query.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/lib/middleware/query.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/test/readme-issue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/optimist/readme.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/accepts/node_modules/negotiator/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/accepts/node_modules/negotiator/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/optimist/example/reflect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/release-notes.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/lib/request.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/lib/request.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/lib/response.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/lib/response.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/test/root-nomount.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/test/root.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/lib/router/route.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/lib/router/route.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/node_modules/source-map/test/run-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/test/run-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/runtime.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/dist/amd/handlebars/runtime.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/dist/cjs/handlebars/runtime.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/lib/handlebars/runtime.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/dist/amd/handlebars/safe-string.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/dist/cjs/handlebars/safe-string.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/lib/handlebars/safe-string.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/lib/scope.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/semver/semver.browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/semver/semver.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/semver/semver.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/.bin/semver" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/semver/bin/semver" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/send/lib/send.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/serve-static/node_modules/send/lib/send.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/send/lib/send.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/serve-static/node_modules/send/lib/send.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/test/compress/sequences.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/views/layouts/shared-templates.handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/optimist/example/short.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/node_modules/minimatch/node_modules/sigmund/sigmund.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/node_modules/source-map/lib/source-map/source-map-consumer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/node_modules/source-map/lib/source-map/source-map-generator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/node_modules/source-map/lib/source-map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/node_modules/source-map/lib/source-map/source-node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/lib/sourcemap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/test/stat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/optimist/example/string.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/node_modules/source-map/build/suffix-browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/node_modules/source-map/build/suffix-source-map.jsm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/node_modules/source-map/build/suffix-utils.jsm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/test/compress/switch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/node_modules/source-map/test/source-map/test-api.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/node_modules/source-map/test/source-map/test-array-set.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/node_modules/source-map/test/source-map/test-base64-vlq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/node_modules/source-map/test/source-map/test-base64.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/node_modules/source-map/test/source-map/test-binary-search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/node_modules/source-map/test/source-map/test-dog-fooding.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/node_modules/source-map/build/test-prefix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/node_modules/source-map/test/source-map/test-source-map-consumer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/node_modules/source-map/test/source-map/test-source-map-generator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/node_modules/source-map/test/source-map/test-source-node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/node_modules/source-map/build/test-suffix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/node_modules/source-map/test/source-map/test-util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/path-to-regexp/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/send/node_modules/finished/node_modules/ee-first/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/send/node_modules/mime/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/finished/node_modules/ee-first/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/mime/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/path-to-regexp/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/send/node_modules/finished/node_modules/ee-first/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/send/node_modules/mime/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/finished/node_modules/ee-first/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/mime/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/node_modules/inherits/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/views/partials/page/title.handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/lib/transform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/test/compress/typeof.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/.bin/uglifyjs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/bin/uglifyjs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/optimist/example/usage-options.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/optimist/test/usage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/examples/usr-local.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/node_modules/source-map/lib/source-map/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/node_modules/source-map/test/source-map/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/lib/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/send/lib/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/node_modules/serve-static/node_modules/send/lib/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/lib/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/send/lib/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/node_modules/serve-static/node_modules/send/lib/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/dist/amd/handlebars/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/dist/cjs/handlebars/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/lib/handlebars/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/uglify-js/lib/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/node_modules/express/lib/view.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/basic/node_modules/express/lib/view.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/dist/amd/handlebars/compiler/visitor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/dist/cjs/handlebars/compiler/visitor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/lib/handlebars/compiler/visitor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/optimist/node_modules/wordwrap/test/wrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/handlebars/node_modules/optimist/example/xup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/examples/advanced/views/yell.handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/express3-handlebars/node_modules/glob/test/zz-cleanup.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/index.js" afterPath="$PROJECT_DIR$/routes/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="BachelorPad.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="BachelorPad" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.handlebars" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/views/index.handlebars">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5242537">
+              <caret line="123" column="35" selection-start-line="123" selection-start-column="35" selection-end-line="123" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hashtag.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/hashtag.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/routes/hashtag.js" />
+        <option value="$PROJECT_DIR$/routes/index.js" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/views/index.handlebars" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="53" />
+    <option name="width" value="1918" />
+    <option name="height" value="992" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BachelorPad" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BachelorPad" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BachelorPad" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BachelorPad" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BachelorPad" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/routes" />
+      <recent name="$PROJECT_DIR$/views" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.app.js">
+    <configuration default="false" name="app.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/bin/node" path-to-js-file="app.js" working-dir="$PROJECT_DIR$">
+      <profiling log-folder="$PROJECT_DIR$" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <profiling log-folder="$PROJECT_DIR$" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.bin/www" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.app.js" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.app.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0ce233a-3acf-443e-9f46-cb81f658a396" name="Default" comment="" />
+      <created>1431041595606</created>
+      <option name="number" value="Default" />
+      <updated>1431041595606</updated>
+      <workItem from="1431041601345" duration="434000" />
+      <workItem from="1431042115917" duration="10000" />
+      <workItem from="1431111185099" duration="5420000" />
+      <workItem from="1431367488360" duration="9000" />
+      <workItem from="1431464402031" duration="2543000" />
+      <workItem from="1431726708841" duration="1563000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9979000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="53" width="1918" height="992" extended-state="4" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32837528" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24893162" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3291714" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.handlebars">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/hashtag.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.handlebars">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/hashtag.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.handlebars">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/hashtag.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/error.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/layout.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.25">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/express/lib/router/route.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="169" column="0" selection-start-line="169" selection-start-column="0" selection-end-line="169" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/hashtag.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.handlebars">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5242537">
+          <caret line="123" column="35" selection-start-line="123" selection-start-column="35" selection-end-line="123" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
